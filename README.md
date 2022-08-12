@@ -1,3 +1,3 @@
-# pyspark_guide
-Code with pyspark
-工作中的模型代码以及一些学习整理
+based on pyspark.ml 
+* 基于GBDT对保险类产品的高意向人群进行挖掘
+> 包含自动预测脚本
